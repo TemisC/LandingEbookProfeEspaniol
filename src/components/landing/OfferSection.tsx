@@ -27,11 +27,10 @@ export default function OfferSection() {
                         <ul role="list" className="mt-8 grid grid-cols-1 gap-4 text-sm leading-6 text-slate-600 sm:grid-cols-2 sm:gap-6">
                             {[
                                 'La Plataforma Secreta Revelada',
-                                'Guía de Registro Anti-Rechazo',
-                                'Scripts de Video Aprobados',
-                                'Estrategia de Primer Alumno',
-                                'Cómo cobrar en Dólares',
-                                'Plantillas de Mensajes',
+                                'Guía de Registro paso a paso Anti-Rechazo',
+                                'Como hacer tu Video perfecto',
+                                'Estrategia de Primeros Alumnos',
+                                'Estrategias y tips que he aprendido por experiencia',
                             ].map((feature) => (
                                 <li key={feature} className="flex gap-x-3">
                                     <svg className="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -44,10 +43,10 @@ export default function OfferSection() {
 
                         <div className="mt-8 p-4 bg-sky-50 rounded-xl border border-sky-100">
                             <p className="text-sm font-semibold text-sky-800">
-                                🎁 BONUS: Acceso a Mentoría 1 a 1 (Cupos Limitados)
+                                🎁 BONUS: Regalo Exclusivo
                             </p>
                             <p className="text-xs mt-1 text-sky-600">
-                                Soporte personalizado para acelerar tus primeros resultados.
+                                Si eres de los primeros en adquirir el Ebook, te regalaré mi <strong>clase de prueba efectiva</strong>. Y 5 clases más para tus primeros alumnos. No tendrás que preparar nada.
                             </p>
                         </div>
 

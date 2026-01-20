@@ -41,8 +41,8 @@ export default function ProofSection() {
                                 height={300}
                                 className="rounded-xl"
                             />
-                            <div className="absolute -bottom-6 -right-6 bg-green-100 text-green-800 px-4 py-2 rounded-lg font-bold shadow-lg border border-green-200">
-                                💰 $429 USD / semana
+                            <div className="absolute -bottom-6 -right-6 bg-green-100 text-green-800 px-4 py-2 rounded-lg font-bold shadow-lg border border-green-200 text-sm max-w-[200px] text-center">
+                                💰 Woooo 429 USD de ingresos desde casa con el Español!
                             </div>
                         </div>
                     </div>

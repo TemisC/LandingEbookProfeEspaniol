@@ -63,12 +63,20 @@ export default function OfferSection() {
                             <div className="mx-auto max-w-xs px-8">
                                 <p className="text-base font-semibold text-slate-600">Precio de Lanzamiento</p>
                                 <p className="mt-6 flex flex-col items-center justify-center gap-x-2">
-                                    <span className="text-lg text-slate-400 line-through font-medium">$97 USD</span>
+                                    <span className="text-lg text-slate-400 line-through font-medium">$69 USD</span>
                                     <span className="flex items-baseline gap-x-1">
-                                        <span className="text-5xl font-bold tracking-tight text-slate-900">$17</span>
+                                        <span className="text-5xl font-bold tracking-tight text-slate-900">$6.99</span>
                                         <span className="text-sm font-semibold leading-6 tracking-wide text-slate-600">USD</span>
                                     </span>
                                 </p>
+                                <div className="mt-6 text-sm text-slate-600 text-center italic">
+                                    <p>
+                                        6.99 USD por una estrategia que te asegura como minimo aprender a ganarte en tu 1er mes 200 USD desde tu casa, solo con una laptop, camara web e internet, ese precio es irrisorio verdad?
+                                    </p>
+                                    <p className="mt-2 font-medium text-slate-800">
+                                        Pues bien, ese monto luego subirá como la espuma, porque seria apenas el comienzo, asi que no lo dudes
+                                    </p>
+                                </div>
                                 <a
                                     href="#"
                                     className="mt-10 block w-full rounded-xl bg-sky-600 px-3 py-4 text-center text-sm font-semibold text-white shadow-sm hover:bg-sky-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-600 transition-all hover:scale-105"
